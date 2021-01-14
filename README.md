@@ -4,4 +4,4 @@ This is a tensorflow model created to parse recipe ingredients using named entit
 
 Model was created with this implementation: https://github.com/guillaumegenthial/tf_ner
 
-Some example inputs are listed in the sample_input.txt file, however batched inputs do not work with different "nwords" values per input.
+Some example inputs are listed in the SAMPLE_INPUT.MD file, however batched inputs do not work with different "nwords" values per input.
